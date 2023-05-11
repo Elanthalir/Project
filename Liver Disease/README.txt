@@ -1,5 +1,5 @@
 # To run the project.
-# Open command prompt in the file location and run the main file using the below command.
+# Open command prompt in the file location and run the main.py file using the below command.
 # streamlit run main.py
 # and press enter a user interface will appear in your web browser.
 # In this we are using streamlit for user interface.
